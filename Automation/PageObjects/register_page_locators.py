@@ -1,0 +1,7 @@
+first_name='//input[@name="first_name"]'
+last_name='//input[@name="last_name"]'
+register_user_name='//input[@name="username"]'
+register_password='//input[@name="password1"]'
+confirm_password='//input[@name="password2"]'
+register_btn='//button[contains(text(),"Register")]'
+login_hyperlink='//a[contains(text(),"Login here")]'
